@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={'./cat.png'} style={{borderRadius:"50%"}} className="App-logo" alt="logo" />
+        <img src={'https://pngimg.com/uploads/spongebob/spongebob_PNG32.png'} style={{borderRadius:"50%"}} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
